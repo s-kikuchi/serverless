@@ -30,6 +30,7 @@ serverless deploy
 ## Artifacts
 
 After the `serverless deploy` command runs all created deployment artifacts are placed in the `.serverless` folder of the service.
+(Except specify deploy package)
 
 ## Examples
 
